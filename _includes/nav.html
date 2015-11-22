@@ -3,17 +3,25 @@
 	<nav id="nav">
 		<ul dir="rtl">
 			{% assign current = page.url | downcase | split: '/' %}
-			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="/index.html">
-            خانه
-        </a></li>
-			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="/blog">
-            اخبار
-        </a></li>
-			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="/left-sidebar.html">
+            <li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}>
+            <a href="/right-sidebar.html">
+             آموزشی
+            </a></li>
+
+			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="/bugraffi.html">
             بیوگرافی
         </a></li>
-			<li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}><a href="/right-sidebar.html">Right Sidebar</a></li>
-			<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="/no-sidebar.html">No Sidebar</a></li>
+
+            <li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="/index.html">
+     پروژه ها
+        </a></li>
+            <li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="../Main.html">
+گالری
+        </a></li>
+			<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}>
+            <a href="/no-sidebar.html">
+                اخبار
+            </a></li>
 		</ul>
 	</nav>
 </div>

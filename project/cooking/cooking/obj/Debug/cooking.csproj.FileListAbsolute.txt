@@ -1,0 +1,11 @@
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\bin\Debug\cooking.exe.config
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\bin\Debug\cooking.exe
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\bin\Debug\cooking.pdb
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.csprojResolveAssemblyReference.cache
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.Form1.resources
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.Properties.Resources.resources
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.csproj.GenerateResource.Cache
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.exe
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.pdb
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.user.resources
+c:\users\alizadeh\documents\visual studio 2012\Projects\cooking\cooking\obj\Debug\cooking.Type_user.resources

@@ -110,13 +110,7 @@
 		{
 		}
 
-		header .byline
-		{
-			display: block;
-			margin: 1.5em 0 0 0;
-			padding: 0 0 0.5em 0;
-		}
-		
+
 	footer
 	{
 		margin-top: 1em;
@@ -800,26 +794,12 @@
 	
 		#logo h1
 		{
-			color: #FFF;
+			color: rgba(244, 255, 205, 0.86);
+            font-size: 3em;
+
 		}
 	
-		#logo a
-		{
-			display: block;
-			text-decoration: none;
-			font-weight: 300;
-			line-height: 1em;
-			font-size: 7em;
-			color: #FFF;
-			letter-spacing: -0.05em;
-			margin: 0 0 0.125em 0;
-		}
-		
-		#logo span
-		{
-			font-size: 1.4em;
-			color: #FFF;
-		}
+
 
 /*********************************************************************************/
 /* Nav                                                                           */
